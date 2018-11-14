@@ -48,11 +48,11 @@ Simple Script to install recommended Bug Bounty Hunting Tools In Your Linux dist
 
 We recommend Install any penetration testing distributions Like [ Backbox , Kali Linux ] .
 
-git clone 
+git clone https://github.com/maysarax/bug_bounty_tools.git
 
-cd 
+cd bug_bounty_tools
 
-chmod +x 
+chmod +x bug_bounty_tools.sh
 
 
 Script Must Run As Root 
