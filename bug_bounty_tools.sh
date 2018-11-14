@@ -11,26 +11,6 @@ else
 fi
 
 
-echo '''
-
-  ____
- |  _ \
- | |_) |_   _  __ _ _______  ___
- |  _ <| | | |/ _` |_  / _ \/ _ \
- | |_) | |_| | (_| |/ /  __/  __/
- |____/ \__,_|\__, /___\___|\___|
-               __/ |
-              |___/
-
-    This Tool Developed For Web Application Bug Hunters
-    Developed By SecFathy @Sirmatrixpage
-'''
-
-
-
-
-
-
 #printf "\x1b[32m ---> [ Update Your Linux Distro ]\\x1b[0m\n";
 #apt-get update
 #apt-get upgrade
