@@ -1,6 +1,6 @@
 #!/bin/bash
 # Bug Hunter 101 Tools
-# Developed By SecFathy
+
 
 # Check Root Privileges
 if [[ $EUID -ne 0 ]]; then
