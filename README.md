@@ -52,7 +52,7 @@ git clone
 
 cd 
 
-chmod +x bugzee.sh
+chmod +x 
 
 
 Script Must Run As Root 
