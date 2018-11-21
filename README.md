@@ -4,45 +4,84 @@ Simple Script to install recommended Bug Bounty Hunting Tools In Your Linux dist
 
 # Tools 
 
-1 - a2sv
+AWS credentials!
+JSParser
 
-2 - masscan
+SSL Testing Tools
 
-3 - nmap 
+a2sv
 
-4 - Sublist3r
+Port Scan
 
-5 - knock
+lazyrecon 
+nmap
+masscan
 
-6 - subjack
+DNS Discovery & Sub-domain
 
-7 - aquatone
+Sublist3r 
+brutesubs
+cloudflare_enum
+censys.py
+knock
+teh_s3_bucketeers
+virtual-host-discovery
+recon_profile
+massdns
+list subdomains
+GoBuster
 
-8 - dirsearch
+Subdomain Takeover
 
-9 - whatweb
+subjack
+aquatone
+autoSubTakeover
+HostileSubBruteforcer
+tko-subs
+SandCastle
+gitrob
+truffleHog
 
-10 - wafw00f
+Discovery Directory
 
-11 - Sqlmap 
+dirsearch
 
-12 - tplmap 
+Fingerprinting Tools
 
-13 - LFISuite
+whatweb
+wafw00f
+ReconCat
 
-14 - RCE The Web 
+Web Application vulnerability Scanner
 
-15 - WPscan 
 
-16 - joomlascan
+sqlmap
+tplmap
+LFISuit
+race-the-web
+wpscan
+joomscan
+CMSmap
+GitTools
+weevely3
+lazys3
+webscreenshot
+EyeWitness
+Parameth
+Ground-Control
+Sleepy-Puppy
+XSSHunter
+Commix
 
-17 - CMSmap 
 
-18 - GitTools
+Plugins for Burp Suite
 
-19 - Weevely 
+VulnersCom
+BackSlash-powered-scanner
+Header Checks
+pyschPATH
 
-20 - ReconCat 
+
 
 # Installing
 
